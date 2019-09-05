@@ -1,6 +1,6 @@
 name: default_http_header_plugin
 description: "Get default http headers. eg: accept-language"
-version: 0.0.1
+version: 0.0.1+1
 author: Fengyuxx <fengyuxx223@gmail.com>
 homepage: https://github.com/fengyuxx/default_http_header_plugin
 

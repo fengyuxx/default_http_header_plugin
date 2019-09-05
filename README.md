@@ -6,6 +6,7 @@ Only iOS code at present.
 
 Include Headers:
 - accept-language
+- user-agent
 
 
 ## Getting Started
