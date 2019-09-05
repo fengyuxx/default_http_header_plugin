@@ -1,0 +1,22 @@
+PODS:
+  - default_http_header_plugin (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - default_http_header_plugin (from `.symlinks/plugins/default_http_header_plugin/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+EXTERNAL SOURCES:
+  default_http_header_plugin:
+    :path: ".symlinks/plugins/default_http_header_plugin/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  default_http_header_plugin: 381a453f8120ea7aad70f641fa83e4bb05864532
+  Flutter: 58dd7d1b27887414a370fcccb9e645c08ffd7a6a
+
+PODFILE CHECKSUM: e8988baac3a50f787b9d3ed7ca44957b442f92a7
+
+COCOAPODS: 1.7.5
