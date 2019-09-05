@@ -4,8 +4,8 @@ A flutter plugin for getting default http headers.
 
 Only iOS code at present.
 
-Headers:
-    accept-language
+Include Headers:
+- accept-language
 
 
 ## Getting Started
