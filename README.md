@@ -21,5 +21,8 @@ samples, guidance on mobile development, and a full API reference.
 
 
 Reference:
+    accept-language rfc:
+    https://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.4
+
     Get default accept-language in android:
     https://stackoverflow.com/a/42427199
