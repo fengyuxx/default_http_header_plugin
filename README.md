@@ -1,6 +1,6 @@
 # default_http_header_plugin
 
-A flutter plugin for getting default http headers.
+A flutter plugin for getting default http headers from device system settings.
 
 Only iOS code at present.
 
